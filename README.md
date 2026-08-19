@@ -3,10 +3,10 @@
   <!-- Aesthetic Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=VIJIT%20PUGALIA&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
 
-  <!-- Animated Typing Subtitle -->
+  <!-- Animated Typing Subtitle (Clean URI-encoded) -->
   <p align="center">
     <a href="https://vijitpugalia.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Frontend+Design+Engineer+%26+Creative+Coder+🎨;Machine+Learning+%26+Computer+Vision+Specialist+🤖;React+%7C+Next.js+%7C+TypeScript+%7C+TailwindCSS;Bridging+AI+Models+with+High-Performance+Web+UIs+⚡" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Frontend+Design+Engineer+%26+Creative+Coder;Machine+Learning+%26+Computer+Vision+Specialist;React+%7C+Next.js+%7C+TypeScript+%7C+TailwindCSS;Bridging+AI+Models+with+High-Performance+Web+UIs" alt="Typing SVG" />
     </a>
   </p>
 
