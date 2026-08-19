@@ -1,25 +1,28 @@
 <div align="center">
 
-  <!-- Aesthetic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,12,24,30&height=200&section=header&text=✨%20VIJIT%20PUGALIA%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20%7C%20AI%20%26%20ML%20Specialist%20%7C%20Creative%20Engineer&descSize=18&descAlignY=68" width="100%"/>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=VIJIT%20PUGALIA&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header" />
 
-  <!-- Animated Typing SVG -->
+  <!-- Animated Subtitle -->
   <p align="center">
     <a href="https://vijitpugalia.com">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+Pixel-Perfect+User+Interfaces+🎨;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Tailwind+CSS;AI+%26+Machine+Learning+Integration+🤖;Crafting+Fast%2C+Modern+%26+Accessible+Web+Apps+⚡" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Frontend+Developer+%26+UI%2FUX+Enthusiast;React+%7C+Next.js+%7C+TypeScript+%7C+TailwindCSS;Machine+Learning+%26+AI+Integration;Crafting+Performant+%26+Delightful+Web+Apps" alt="Typing SVG" />
     </a>
   </p>
 
-  <!-- Social Badges with Modern Glass Pill Style -->
+  <!-- Interactive Badges & Profile Views -->
   <p align="center">
     <a href="https://vijitpugalia.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-vijitpugalia.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-vijitpugalia.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://github.com/VijitPugalia" target="_blank">
-      <img src="https://img.shields.io/github/followers/VijitPugalia?label=Followers&style=for-the-badge&logo=github&color=8B5CF6&labelColor=0F172A" alt="GitHub Followers" />
+      <img src="https://img.shields.io/github/followers/VijitPugalia?label=Followers&style=for-the-badge&logo=github&color=8B5CF6" alt="Followers" />
+    </a>
+    <a href="https://komarev.com/ghpvc/?username=VijitPugalia&color=38BDF8&style=for-the-badge&label=VIEWS" target="_blank">
+      <img src="https://komarev.com/ghpvc/?username=VijitPugalia&color=38BDF8&style=for-the-badge&label=VIEWS" alt="Profile Views" />
     </a>
     <a href="mailto:vijitpugalia0@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
@@ -51,14 +54,14 @@ const VijitPugalia: Developer = {
 #### **Modern UI, Frameworks & Styling**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,redux,threejs,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,bootstrap,redux,threejs,figma" alt="Frontend Icons" />
   </a>
 </p>
 
 #### **Backend, AI & Developer Ecosystem**
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nodejs,express,git,github,vscode,postman,docker,linux,vercel" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,nodejs,express,git,github,vscode,postman,docker,linux,vercel" alt="Backend and Tools Icons" />
   </a>
 </p>
 
@@ -66,47 +69,30 @@ const VijitPugalia: Developer = {
 
 ---
 
-### 🏆 GitHub Achievements & Trophies
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VijitPugalia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
-</div>
+  <p>
+    <img src="https://img.shields.io/badge/Status-Active%20Developer-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/GitHub-PRO-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Pro" />
+    <img src="https://img.shields.io/badge/Repositories-14%20Public-38BDF8?style=for-the-badge&logo=git&logoColor=white" alt="Repos" />
+  </p>
 
----
-
-### 📊 Performance & Git Activity Metrics
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=VijitPugalia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=F472B6&text_color=E2E8F0" height="175" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijitPugalia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=E2E8F0" height="175" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VijitPugalia&theme=tokyonight&hide_border=true&background=0D1117&stroke=60A5FA&ring=60A5FA&fire=F43F5E&currStreakLabel=60A5FA" alt="Streak Stats" />
-</div>
-
-<div align="center">
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VijitPugalia&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=60A5FA&line=38BDF8&point=F472B6" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
 
-### 🌟 Featured Projects & Applications
+### 🌟 Featured Repositories & Work
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">🏃 Human Activity Recognition</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Machine%20Learning-Deep%20Learning-38BDF8?style=flat-square" />
-        <img src="https://img.shields.io/badge/Python-Jupyter-F59E0B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Machine%20Learning-Deep%20Learning-38BDF8?style=flat-square" alt="ML" />
+        <img src="https://img.shields.io/badge/Python-Jupyter-F59E0B?style=flat-square" alt="Python" />
       </p>
       <p>Real-time human activity recognition using deep neural network architectures and sensor telemetry data analysis.</p>
       <p align="center">
@@ -116,8 +102,8 @@ const VijitPugalia: Developer = {
     <td width="50%">
       <h3 align="center">🧠 Shape AI ML Suite</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Algorithms-Scikit--Learn-10B981?style=flat-square" />
-        <img src="https://img.shields.io/badge/AI-Data%20Science-8B5CF6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Algorithms-Scikit--Learn-10B981?style=flat-square" alt="Algorithms" />
+        <img src="https://img.shields.io/badge/AI-Data%20Science-8B5CF6?style=flat-square" alt="AI" />
       </p>
       <p>A comprehensive repository of machine learning algorithms, model training pipelines, and data exploration notebooks.</p>
       <p align="center">
@@ -133,11 +119,11 @@ const VijitPugalia: Developer = {
 
   ### 💬 Let's Connect & Build Something Amazing
 
-  <a href="https://vijitpugalia.com" target="_blank"><img src="https://img.shields.io/badge/Website-vijitpugalia.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A" /></a>
-  <a href="mailto:vijitpugalia0@gmail.com"><img src="https://img.shields.io/badge/Gmail-vijitpugalia0@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" /></a>
-  <a href="https://github.com/VijitPugalia"><img src="https://img.shields.io/badge/GitHub-VijitPugalia-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" /></a>
+  <a href="https://vijitpugalia.com" target="_blank"><img src="https://img.shields.io/badge/Website-vijitpugalia.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:vijitpugalia0@gmail.com"><img src="https://img.shields.io/badge/Gmail-vijitpugalia0%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/VijitPugalia"><img src="https://img.shields.io/badge/GitHub-VijitPugalia-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24,30&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
