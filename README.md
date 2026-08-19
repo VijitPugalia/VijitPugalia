@@ -21,7 +21,7 @@
     <a href="https://komarev.com/ghpvc/?username=VijitPugalia&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" target="_blank">
       <img src="https://komarev.com/ghpvc/?username=VijitPugalia&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
     </a>
-    <a href="mailto:vijitpugalia0@gmail.com">
+    <a href="mailto:vijitpugalia@gmail.com">
       <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
